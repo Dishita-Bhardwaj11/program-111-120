@@ -1,5 +1,3 @@
-/*Write a program to take a string s as input. The task is to find the length of the longest substring without repeating characters. Print the length as output.*/
-
 #include <stdio.h>
 #include <string.h>
 
@@ -27,3 +25,4 @@ int main() {
     printf("Length of the longest substring without repeating characters is: %d\n", max_length);
     return 0;
 }
+
